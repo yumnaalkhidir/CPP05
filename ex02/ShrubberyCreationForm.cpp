@@ -71,6 +71,4 @@ void ShrubberyCreationForm::execute(Bureaucrat const& executor) const
     shrubbery_file << "  _ -  | |   -_" << std::endl;
     shrubbery_file << "      // \\" << std::endl;
     shrubbery_file.close();
-
-
 }
